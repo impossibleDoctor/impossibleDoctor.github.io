@@ -15,9 +15,7 @@ B.S., Electronics Engineering | University of the Philippines Diliman (_July 202
 
 ## Academic Projects
 
-**Multi-Stage Hybrid-CNN Transformer Model for Human Intent-Prediction (_August 2022 - July 2023_)** ([Repository](https://github.com/jbramos9/DSP03_AY2223))
-
-_Skills: PyTorch, ML Model Development, Transformer, CNN, wandb, Lightning AI_
+**Multi-Stage Hybrid-CNN Transformer Model for Human Intent-Prediction (_August 2022 - July 2023_)** _Skills: PyTorch, ML Model Development, Transformer, CNN, wandb, Lightning AI_ ([Repository](https://github.com/jbramos9/DSP03_AY2223))
 -	Published in TENCON 2023 - 2023 IEEE Region 10 Conference (TENCON)
 -	Developed a multi-stage hybrid-CNN (DETR) transformer model to predict human intentions based on gaze patterns using computer vision.
 -	Constructed a custom human-intention video dataset using Labelbox
@@ -25,21 +23,15 @@ _Skills: PyTorch, ML Model Development, Transformer, CNN, wandb, Lightning AI_
 -	Used Weights&Biases (wandb) to document training and testing processes.
 -	Achieved an overall accuracy of 54%, precision of 46.19%, recall of 50.01%, and an F1-score of 45.53% on a custom dataset.
 
-**GenetiCRS (_May 2023 - July 2023_)** ([Repository](https://github.com/Ayumu098/geneticrs))
-
-_Skills: Python, Genetic Algorithm, web-scraping_
+**GenetiCRS (_May 2023 - July 2023_)** _Skills: Python, Genetic Algorithm, web-scraping_ ([Repository](https://github.com/Ayumu098/geneticrs))
 -	Developed a genetic algorithm system to determine the optimal enlistment of subjects on a lottery-based simplified simulation of University of the Philippines’ class enlistment process.
 
-**Keyword Spotting Using Transformer** (_May 2022_)** ([Repository](https://github.com/impossibleDoctor/ece197-assignments/tree/main/kws-transformer))
-
-_Skills: PyTorch, Transformer, Lightning AI, wandb_
+**Keyword Spotting Using Transformer _Skills: PyTorch, Transformer, Lightning AI, wandb_ (_May 2022_)** ([Repository](https://github.com/impossibleDoctor/ece197-assignments/tree/main/kws-transformer))
 - Developed a transformer model using PyTorch Lightning capable of spotting keywords in audio waveforms.
 -	Achieved a test accuracy of 90.6% on a 37-class speech-command dataset.
 
 ## Personal Projects
-**NoteCard** (_2020_) ([Google Play Link](https://play.google.com/store/apps/details?id=com.idt.android.notecard))
-
-_Skills: Kotlin, Android App Development_
+**NoteCard (_2020_)** _Skills: Kotlin, Android App Development_([Google Play Link](https://play.google.com/store/apps/details?id=com.idt.android.notecard))
 -	A simple note taking application developed using MVVM Architecture.
 -	Published in Google Play Store
 
