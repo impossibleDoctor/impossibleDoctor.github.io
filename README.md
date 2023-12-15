@@ -13,6 +13,12 @@ B.S., Electronics Engineering | University of the Philippines Diliman (_July 202
 + **Special Topics in Data Driven Control**, _University of the Philippines Diliman_ (_2023_)
 + **Deep Learning**, _University of the Philippines Diliman_ (_2022_)
 
+## Personal Projects
+- **NoteCard (_2020_)** ([Google Play Link](https://play.google.com/store/apps/details?id=com.idt.android.notecard)) \
+_Skills: Kotlin, Android App Development_
+  -	A simple note taking application developed using MVVM Architecture.
+  -	Published in Google Play Store
+
 ## Academic Projects
 
 - **Multi-Stage Hybrid-CNN Transformer Model for Human Intent-Prediction (_August 2022 - July 2023_)** ([Repository](https://github.com/jbramos9/DSP03_AY2223)) \
@@ -33,10 +39,6 @@ _Skills: PyTorch, Transformer, Lightning AI, wandb_
   - Developed a transformer model using PyTorch Lightning capable of spotting keywords in audio waveforms.
   -	Achieved a test accuracy of 90.6% on a 37-class speech-command dataset.
 
-## Personal Projects
-- **NoteCard (_2020_)** ([Google Play Link](https://play.google.com/store/apps/details?id=com.idt.android.notecard)) \
-_Skills: Kotlin, Android App Development_
-  -	A simple note taking application developed using MVVM Architecture.
-  -	Published in Google Play Store
+
 
 
